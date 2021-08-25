@@ -1,14 +1,14 @@
 
 <div align="center">
   
-<a href="#"><img title="DEVIL" src="https://i.imgur.com/GcIHyyD.jpegBLACK-DEVIL-white?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHINJUMWOL " src="https://i.ibb.co/NVccqkH/images.jpgcolorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/aneeslub/FADHIL BOT"><img title="Author" src="https://img.shields.io/badge/Author-Anees-Lub/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aneeslub/chinjumwol "><img title="Author" src="https://img.shields.io/badge/Author-Anees-Lub/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aneeslub/FADHIL BOT ">anees-lub</a> to make it public
+Project created by <a href="https://github.com/aneeslub/CHINJUMWOL ">anees-lub</a> to make it public
     <br>
        | © |
         Reserved |
@@ -18,14 +18,14 @@ Project created by <a href="https://github.com/aneeslub/FADHIL BOT ">anees-lub</
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
+  <a href="httsp://github.com/athildev/pikachu">
     <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
+<a href="https://github.com/athildev/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://i.ibb.co/NVccqkH/images.jpg.svg"</a>
 </p>
 
 
@@ -60,7 +60,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/aneeslub/Black-Devil
+$ git clone https://github.com/aneeslub/CHINJUMWOL 
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -70,7 +70,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/aneeslub/Black-Devil
+$ git clone https://github.com/aneeslub/CHINJUMWOL 
 $ cd pikachu
 $ chmod +x *
 $ npm i
