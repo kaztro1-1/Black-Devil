@@ -4,7 +4,7 @@
 <a href="#"><img title="CHINJUMWOL " src="https://i.ibb.co/NVccqkH/images.jpgcolorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/aneeslub/chinjumwol "><img title="Author" src="https://img.shields.io/badge/Author-Anees-Lub/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/aneeslub/chinjumwol ">https://i.ibb.co/NVccqkH/images.jpg<img title="Author" src="https://img.shields.io/badge/Author-Anees-Lub/chinjumwol ?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,12 +19,12 @@ Project created by <a href="https://github.com/aneeslub/CHINJUMWOL ">anees-lub</
 
   <p align="center">
   <a href="httsp://github.com/athildev/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=%f7df1e&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/athildev/chinjumwol ?color=%f7df1e&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/athildev/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/athildev/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/athildev/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/athildev/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/followers"><img title="Followers" src="https://img.shields.io/github/followers/athildev?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/athildevchinjumwol ?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/athildev/chinjumwol ?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/athildev/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/athildev/chinjumwol ?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://i.ibb.co/NVccqkH/images.jpg.svg"</a>
 </p>
 
@@ -45,7 +45,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aneeslub/Pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aneeslub/chinjumwol .git)
      </div>
 <br>
 <br >
@@ -71,7 +71,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/aneeslub/CHINJUMWOL 
-$ cd pikachu
+$ cd chinjumwol 
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -91,7 +91,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/Anees-lub/pikachu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![athildev ](https://github.com/CHINJUMWOL -407x400.png?size=100)](https://github.com/Anees-lub/pikachu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
